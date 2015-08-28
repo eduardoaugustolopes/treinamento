@@ -1,0 +1,39 @@
+D:\Projetos\AppNotas\AppNotas\bin\Debug\AppNotas.exe.config
+D:\Projetos\AppNotas\AppNotas\bin\Debug\AppNotas.exe
+D:\Projetos\AppNotas\AppNotas\bin\Debug\AppNotas.pdb
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.csprojResolveAssemblyReference.cache
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Properties.Resources.resources
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.GenerateResource.Cache
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.exe
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.pdb
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.CadastroGrupos.resources
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.MainForm.resources
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.RegistroGrupo.resources
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.CadastroFornecedores.resources
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.RegistroFornecedor.resources
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.CadastroProdutos.resources
+D:\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.RegistroProduto.resources
+G:\Treinamento C#\Projetos\AppNotas\AppNotas\bin\Debug\AppNotas.exe.config
+G:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.exe
+G:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.pdb
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\bin\Debug\AppNotas.exe.config
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.exe
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.pdb
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\bin\Debug\AppNotas.exe
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\bin\Debug\AppNotas.pdb
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.csprojResolveAssemblyReference.cache
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.CadastroFornecedores.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.CadastroGrupos.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.CadastroProdutos.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.RegistroFornecedor.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.RegistroGrupo.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.RegistroProduto.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.MainForm.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Properties.Resources.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.GenerateResource.Cache
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.CadastroSimilares.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Cadastros.RegistroSimilar.resources
+E:\Treinamento C#\Projetos\AppNotas\AppNotas\obj\Debug\AppNotas.Splash.resources
+E:\GitHub\Repos\treinamento\AppNotas\AppNotas\bin\Debug\AppNotas.exe.config
+E:\GitHub\Repos\treinamento\AppNotas\AppNotas\obj\Debug\AppNotas.exe
+E:\GitHub\Repos\treinamento\AppNotas\AppNotas\obj\Debug\AppNotas.pdb
