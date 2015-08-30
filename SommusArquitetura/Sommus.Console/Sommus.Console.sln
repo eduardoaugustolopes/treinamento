@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SommusConsole", "Sommus.Console\SommusConsole.csproj", "{040E37F8-1471-44B6-85B3-8ECB1A029F69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sommus.Domain", "Sommus.Domain\Sommus.Domain.csproj", "{6AF60329-9717-43E5-B83E-7563A16EFA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sommus.DomainTests", "Sommus.DomainTests\Sommus.DomainTests.csproj", "{04AA0D36-26E3-4D34-B8F5-A7E5F746E263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040E37F8-1471-44B6-85B3-8ECB1A029F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040E37F8-1471-44B6-85B3-8ECB1A029F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040E37F8-1471-44B6-85B3-8ECB1A029F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040E37F8-1471-44B6-85B3-8ECB1A029F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF60329-9717-43E5-B83E-7563A16EFA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF60329-9717-43E5-B83E-7563A16EFA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF60329-9717-43E5-B83E-7563A16EFA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF60329-9717-43E5-B83E-7563A16EFA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AA0D36-26E3-4D34-B8F5-A7E5F746E263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AA0D36-26E3-4D34-B8F5-A7E5F746E263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AA0D36-26E3-4D34-B8F5-A7E5F746E263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AA0D36-26E3-4D34-B8F5-A7E5F746E263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

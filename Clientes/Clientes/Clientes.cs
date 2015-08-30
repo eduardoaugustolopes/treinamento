@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Clientes
+﻿namespace Clientes
 {
-    class Clientes
+    public class Clientes
     {
         private int clienteId;
 
@@ -32,6 +26,11 @@ namespace Clientes
             set { cnpjCliente = value; }
         }
 
+        private double limiteCredito = 250;
+        public double LimiteCredito
+        {
+            get { return limiteCredito; }
+        }
 
     }
 }
