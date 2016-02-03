@@ -52,3 +52,6 @@ E:\GitHub\Repos\treinamento\AppNotas\AppNotas\obj\Debug\AppNotas.MainForm.resour
 E:\GitHub\Repos\treinamento\AppNotas\AppNotas\obj\Debug\AppNotas.Properties.Resources.resources
 E:\GitHub\Repos\treinamento\AppNotas\AppNotas\obj\Debug\AppNotas.Splash.resources
 E:\GitHub\Repos\treinamento\AppNotas\AppNotas\obj\Debug\AppNotas.csproj.GenerateResource.Cache
+D:\Projetos\Treinamento\AppNotas\AppNotas\bin\Debug\AppNotas.exe.config
+D:\Projetos\Treinamento\AppNotas\AppNotas\obj\Debug\AppNotas.exe
+D:\Projetos\Treinamento\AppNotas\AppNotas\obj\Debug\AppNotas.pdb

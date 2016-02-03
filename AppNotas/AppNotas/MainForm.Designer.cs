@@ -1,5 +1,6 @@
 ﻿namespace AppNotas
 {
+
     partial class MainForm
     {
         /// <summary>
